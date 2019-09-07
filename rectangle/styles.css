@@ -1,0 +1,4 @@
+#rectangleContainer{
+    transition: width 2s;
+    transition: height 2s;
+}
